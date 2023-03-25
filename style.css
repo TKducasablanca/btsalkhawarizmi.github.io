@@ -1,0 +1,97 @@
+body {
+    background-color: #ffffff;
+}
+h1 {
+    font-size: 38px;
+    color: #ff730f ;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+
+}
+
+sup {
+    font-size: 11px;
+}
+
+p.subtitle {
+    font-size: 17px;
+    color: #0054c9 ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+img.bts {
+    width: 521px; 
+    height: 185px; 
+    padding-left: 30%;
+    
+    
+} 
+a.link {
+    background-color: #ff730f;
+    color: white;
+    border-radius: 0.5em;
+    font-size: 21px;
+}
+
+pre {
+     font-size: 11px;
+}
+
+a.fill {
+    color: white;
+    background-color: #0146a6;
+    padding: 2%;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    margin: 1%;
+    font-family:'Courier New', Courier, monospace;
+    border-radius: 1em;
+    font-size: 15px;
+    
+
+}
+
+div.idf {
+    padding-bottom: 10%;
+}
+
+h3 {
+    color: #ff730f;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+}
+
+p.br {
+    background-image: url('manini.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    backdrop-filter:unset;
+    color: white;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 2%;
+
+}
+
+/*div {
+    background-color: #00204e;
+}
+*/
+img.men {
+    padding-top: 12%;
+    padding-left: 35%;
+    width: 424px;
+    height: 66px;
+} 
+
+p.bas {
+    color: #000000;
+    font-size: 12px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 2%;
+}
